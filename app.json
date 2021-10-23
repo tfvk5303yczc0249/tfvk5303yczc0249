@@ -1,0 +1,22 @@
+{
+    "name": "test",
+    "description": "test some",
+    "keywords": [
+        "test"
+    ],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+        }
+    },
+    "website": "https://github.com/",
+    "repository": "https://github.com/",
+    "stack": "container"
+}
+  
+  
+  
+  
+  
+  
